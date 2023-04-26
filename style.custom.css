@@ -1,0 +1,13 @@
+.bg{
+    background-image: linear-gradient(transparent, #ffffff 95%), url(assets/img/fugees__ready_or_not.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+    filter: blur(10px);
+    
+}
+.backGroundCustom{
+    position: relative; 
+    top: -700px;
+}
